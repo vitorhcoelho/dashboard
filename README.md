@@ -1,3 +1,3 @@
 # Dashboard
 
-Um repositório de estudo para utilizar e testar os pacotes: Tailwind e Apexcharts
+Um repositório de estudo para testar os pacotes: Tailwind e Apexcharts
