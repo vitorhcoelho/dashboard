@@ -1,0 +1,9 @@
+/* Exemplo de estilos personalizados para a barra lateral */
+/* Estilizando o texto dos links da sidebar */
+.sidebar a {
+  transition: color 0.2s ease;
+}
+
+.sidebar a:hover {
+  color: #ffffff;
+}
